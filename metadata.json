@@ -1,0 +1,7 @@
+{
+  "name": "AI-Powered Job Portal",
+  "description": "A modern, open-source job portal designed to connect job seekers with opportunities. This platform features robust job search and filtering, profile management, and a unique AI-powered cover letter generator to help candidates stand out.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
